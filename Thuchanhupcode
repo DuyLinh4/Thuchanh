@@ -1,1 +1,2 @@
-print("hello word")
+ten = input("Họ và tên: ")
+print("Hello",ten)
